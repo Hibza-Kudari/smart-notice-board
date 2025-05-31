@@ -80,3 +80,7 @@ The **Smart Notice Board** project aims to modernize traditional communication b
 ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## 👨‍💻 Developed for
+
+**IEP Lab (IoT Enabled Prototyping Laboratory)**
