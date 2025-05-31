@@ -83,4 +83,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 👨‍💻 Developed for
 
-**IEP(IoT Enabled Prototyping Laboratory)**
+**IEP (IoT Enabled Prototyping Laboratory)**
